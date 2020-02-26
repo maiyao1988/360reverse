@@ -1,3 +1,4 @@
+ Files dump or get from 360 android app guard by reverse engineering.
 # File Description
 - 360dumpfix.so memory dumped so from libjiagu.so
 - hidden.dex memory dumped dex from 360 jiagu
